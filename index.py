@@ -9,8 +9,7 @@ CORS(app)
 moods = ["fantastic", "good", "ok", 'meh', 'bad']
 
 yearMoods = {
-	# 'Jan1': {'mood': 'fantastic', 'note': 'love'},
-	# 'Jan2': {'mood': 'bad', 'note':'ds'}
+
 }
 
 @app.route('/')
